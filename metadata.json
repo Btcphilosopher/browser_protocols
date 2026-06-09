@@ -1,0 +1,6 @@
+{
+  "name": "Web.3.0",
+  "description": "A premium, Bitcoin-native, Web3 browser shell built with the Aureom.ai brand design language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
